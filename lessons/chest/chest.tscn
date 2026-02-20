@@ -7,7 +7,7 @@
 [ext_resource type="Texture2D" uid="uid://bnem1cahhoxdk" path="res://lessons/chest/top.png" id="2_12as2"]
 [ext_resource type="Texture2D" uid="uid://bu2jin246nel5" path="res://lessons/chest/lock.png" id="3_65g6b"]
 [ext_resource type="PackedScene" uid="uid://ctqyr0ufyoktk" path="res://lessons/items/key.tscn" id="3_relj8"]
-[ext_resource type="PackedScene" uid="uid://hdxqgspfcaur" path="res://lessons/items/potion.tscn" id="4_hb7wy"]
+[ext_resource type="PackedScene" uid="uid://hdxqgspfcaur" path="res://assets/torch/potion.tscn" id="4_hb7wy"]
 
 [sub_resource type="ShaderMaterial" id="ShaderMaterial_65g6b"]
 resource_local_to_scene = true
